@@ -1,0 +1,64 @@
+header {
+	background-color: #063970;
+	color: #fff;
+	padding: 15px;
+	text-align: center;
+	font-size: 20px;
+	font-weight: bold;
+	margin-bottom: 20px;
+}
+li {
+	list-style-type: none;
+}
+/* Index */
+
+#mdp {
+	background-color: #063970;
+	color: #fff;
+	padding: 15px;
+	text-align: center;
+	font-size: 20px;
+	font-weight: bold;
+	margin-bottom: 20px;
+}
+
+#bhb {
+	background-color: #e6d708;
+	color: #090707;
+	padding: 15px;
+	text-align: center;
+	font-size: 20px;
+	font-weight: bold;
+	margin-bottom: 20px;
+}
+
+#lobos {
+	background-color: #7fd9ed;
+	color: #090dcd;
+	padding: 15px;
+	text-align: center;
+	font-size: 20px;
+	font-weight: bold;
+	margin-bottom: 20px;
+}
+
+#bac {
+	background-color: darkgreen;
+	color: #fff;
+	padding: 15px;
+	text-align: center;
+	font-size: 20px;
+	font-weight: bold;
+	margin-bottom: 20px;
+}
+
+/* Mar del PLata */
+
+.mdp {
+	background-image: url('https://infobrisas-s2.cdn.net.ar/st2i1700/2023/03/infobrisas/images/42/89/428921_e502e5974a7de346a63052cf1ebdc476e2d5466377ae503933e23110e5942a3a/md.webp');
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	height: 500px;
+	
+}
