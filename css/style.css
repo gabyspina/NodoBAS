@@ -60,5 +60,20 @@ li {
 	background-size: cover;
 	background-position: center;
 	height: 500px;
-	
+}
+
+.bhb {
+	background-image: url('https://upload.wikimedia.org/wikipedia/commons/e/ed/View_of_Bah%C3%ADa_Blanca.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	height: 500px;
+}
+
+.lobos {
+	background-image: url('https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Laguna_de_lobos%2C_atardecer.jpg/1200px-Laguna_de_lobos%2C_atardecer.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	height: 500px;
 }
