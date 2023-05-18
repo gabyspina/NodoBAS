@@ -10,6 +10,12 @@ header {
 li {
 	list-style-type: none;
 }
+
+a {
+	text-decoration: none;
+	color: #063970;
+}
+
 /* Index */
 
 #mdp {
@@ -60,7 +66,9 @@ li {
 	background-size: cover;
 	background-position: center;
 	height: 500px;
+	color: #063970;
 }
+
 
 .bhb {
 	background-image: url('https://upload.wikimedia.org/wikipedia/commons/e/ed/View_of_Bah%C3%ADa_Blanca.jpg');
