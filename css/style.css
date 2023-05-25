@@ -1,5 +1,5 @@
 header {
-	background-color: #063970;
+	background-color: #090dcd;
 	color: #fff;
 	padding: 15px;
 	text-align: center;
@@ -13,7 +13,7 @@ li {
 
 a {
 	text-decoration: none;
-	color: #063970;
+	color:red;
 }
 
 /* Index */
@@ -58,6 +58,37 @@ a {
 	margin-bottom: 20px;
 }
 
+#lp {
+	background-color: green;
+	color: #fff;
+	padding: 15px;
+	text-align: center;
+	font-size: 20px;
+	font-weight: bold;
+	margin-bottom: 20px;
+}
+
+#banner_header {
+	background-color: #090dcd;
+	padding: 15px;
+	display: flex;
+	justify-content:space-between;
+	align-items: center;
+}
+#letras_banner {
+	color: #fff;
+	font-size: 20px;
+	font-weight: bold;
+}
+
+#banner {
+	background-color: #090dcd;
+	padding: 15px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
 /* Mar del PLata */
 
 .mdp {
@@ -68,7 +99,6 @@ a {
 	height: 500px;
 	color: #063970;
 }
-
 
 .bhb {
 	background-image: url('https://upload.wikimedia.org/wikipedia/commons/e/ed/View_of_Bah%C3%ADa_Blanca.jpg');
